@@ -86,6 +86,9 @@ button{
     font-size: 10px;
     color: gray;
 }
+.search_button{
+    cursor: pointer;
+}
 /*///////////////////////////////////////////////////////////////////////////////////////*/
 main {
     width: 100%;
