@@ -76,5 +76,7 @@ As always my deepest gratitudes go to:
 
 Fronend Mentor, 
 Coursera,  
-W3schools. 
+W3schools.
+
+
 
